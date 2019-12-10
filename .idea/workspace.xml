@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e47db6f-c901-49ff-8dfd-cc4d4314d9f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/memory_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/class_special_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/product_of_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/random_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/reorder_data_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/spiral_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/list_dutch_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/list_menu_items_spam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/list_merage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reorder_logfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/memory_management.py">
+        <entry file="file://$PROJECT_DIR$/Problems/product_of_array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -41,14 +49,24 @@
         <option value="$PROJECT_DIR$/basic/recursive_fibonacci_number.py" />
         <option value="$PROJECT_DIR$/../Automation/CalculatorLibrary/calculator.py" />
         <option value="$PROJECT_DIR$/basic/memory_management.py" />
+        <option value="$PROJECT_DIR$/basic/list_merage.py" />
+        <option value="$PROJECT_DIR$/basic/list_dutch_flag.py" />
+        <option value="$PROJECT_DIR$/Problems/random_walk.py" />
+        <option value="$PROJECT_DIR$/Problems/class_special_methods.py" />
+        <option value="$PROJECT_DIR$/basic/list_menu_items_spam.py" />
+        <option value="$PROJECT_DIR$/Problems/anagram.py" />
+        <option value="$PROJECT_DIR$/Problems/spiral_matrix.py" />
+        <option value="$PROJECT_DIR$/Problems/reorder_data_logger.py" />
+        <option value="$PROJECT_DIR$/data/reorder_logfile" />
+        <option value="$PROJECT_DIR$/Problems/product_of_array.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1620" />
+    <option name="height" value="1300" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,7 +85,12 @@
             <path>
               <item name="Python_Code_Snippet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Code_Snippet" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Code_Snippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Code_Snippet" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -77,7 +100,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Automation/CalculatorLibrary/calculator.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -92,8 +115,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.memory_management">
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.spiral_matrix">
+    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Code_Snippet" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Automation/CalculatorLibrary" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Automation/CalculatorLibrary/calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +137,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="memory_management" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class_special_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Code_Snippet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/class_special_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_menu_items_spam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Code_Snippet" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/memory_management.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/list_menu_items_spam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursive_fibonacci_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_walk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Code_Snippet" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +187,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/recursive_fibonacci_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/random_walk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spiral_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Code_Snippet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/spiral_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,9 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.memory_management" />
-        <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.recursive_fibonacci_number" />
+        <item itemvalue="Python.spiral_matrix" />
+        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.list_menu_items_spam" />
+        <item itemvalue="Python.class_special_methods" />
+        <item itemvalue="Python.random_walk" />
       </list>
     </recent_temporary>
   </component>
@@ -175,18 +242,26 @@
       <option name="presentableId" value="Default" />
       <updated>1575435993070</updated>
     </task>
+    <task id="LOCAL-00001" summary="memory management">
+      <created>1575625537901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575625537901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1218" height="1040" extended-state="6" />
+    <frame x="-7" y="-7" width="1472" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2625216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21499293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40026775" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -201,6 +276,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="memory management" />
+    <option name="LAST_COMMIT_MESSAGE" value="memory management" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic/recursive_fibonacci_number.py">
@@ -217,10 +296,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1266552762/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/list_dutch_flag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/memory_management.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="458">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/class_special_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/random_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/list_menu_items_spam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/list_merage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reorder_logfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/reorder_data_logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/spiral_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/product_of_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
