@@ -25,8 +25,9 @@ def product_of_list_number(given_list):
         left_list[i] = left_product
     print(left_list)
     for i in range(len(given_list)):
-        result_list.append(right_list[i]*left_list[i])
+        result_list.append(right_list[i] * left_list[i])
     print(result_list)
+    print(list(map(lambda x, y: x*y, left_list, right_list)))
 
 
 input_list = [4, 2, 3, 4]
